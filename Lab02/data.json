@@ -1,0 +1,119 @@
+{
+    "chart_title": "2026 Volleyball Nations League Player Statistics",
+    "data_points": [
+        {
+            "name": "Aleksandar Nikolov",
+            "kills": 247,
+            "blocks": 11,
+            "aces": 20,
+            "total_points": 278
+        },
+        {
+            "name": "Nik Mujabovic",
+            "kills": 236,
+            "blocks": 21,
+            "aces": 20,
+            "total_points": 277
+        },
+        {
+            "name": "Ferre Reggers",
+            "kills": 246,
+            "blocks": 9,
+            "aces": 13,
+            "total_points": 268
+        },
+        {
+            "name": "Adis Lagumdzija",
+            "kills": 197,
+            "blocks": 24,
+            "aces": 19,
+            "total_points": 240
+        },
+        {
+            "name": "Kyle Hanes",
+            "kills": 179,
+            "blocks": 18,
+            "aces": 26,
+            "total_points": 223
+        },
+        {
+            "name": "Matt Anderson",
+            "kills": 165,
+            "blocks": 16,
+            "aces": 16,
+            "total_points": 197
+        },
+        
+        {
+          "name": "Ran Takahashi",
+          "kills": 221,
+          "blocks": 17,
+          "aces": 24,
+          "total_points": 262
+        },
+        {
+          "name": "Rok Mozic",
+          "kills": 184,
+          "blocks": 26,
+          "aces": 11,
+          "total_points": 221
+        },
+        {
+          "name": "Mathis Henno",
+          "kills": 165,
+          "blocks": 11,
+          "aces": 13,
+          "total_points": 189
+        },
+        {
+          "name": "Luciano Vicentin",
+          "kills": 157,
+          "blocks": 13,
+          "aces": 15,
+          "total_points": 185
+        },
+        {
+          "name": "Bartlomiej Boladz",
+          "kills": 154,
+          "blocks": 21,
+          "aces": 9,
+          "total_points": 184
+        },
+        {
+          "name": "Yuki Ishikawa",
+          "kills": 165,
+          "blocks": 6,
+          "aces": 8,
+          "total_points": 179
+        },
+        {
+          "name": "Mattia Bottolo",
+          "kills": 144,
+          "blocks": 14,
+          "aces": 11,
+          "total_points": 169
+        },
+        {
+          "name": "Darlan Souza",
+          "kills": 138,
+          "blocks": 10,
+          "aces": 17,
+          "total_points": 165
+        },
+        {
+          "name": "Stephen Boyer",
+          "kills": 142,
+          "blocks": 17,
+          "aces": 5,
+          "total_points": 164
+        },
+        {
+          "name": "Yuji Nishida",
+          "kills": 122,
+          "blocks": 10,
+          "aces": 10,
+          "total_points": 142
+        }
+
+    ]
+}
