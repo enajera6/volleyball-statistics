@@ -25,9 +25,6 @@ You can navigate to the different pages using the sidebar on the left.
 
 This project is part of CS 1301's Lab 2.
 """)
-st.sidebar.page_link("HomePage.py", label="HomePage")
-st.sidebar.page_link("pages/Survey.py", label="Survey")
-st.sidebar.page_link("pages/Visuals.py", label="Visuals")
 
 # OPTIONAL: ADD AN IMAGE
 # 1. Navigate to the 'images' folder in your Lab02 directory.
